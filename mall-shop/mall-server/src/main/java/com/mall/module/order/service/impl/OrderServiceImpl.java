@@ -6,7 +6,6 @@ import com.mall.common.exception.BusinessException;
 import com.mall.common.result.PageResult;
 import com.mall.module.address.entity.Address;
 import com.mall.module.address.service.AddressService;
-import com.mall.module.cart.dto.CartItemVO;
 import com.mall.module.cart.dto.CartVO;
 import com.mall.module.cart.service.CartService;
 import com.mall.module.order.dto.*;
